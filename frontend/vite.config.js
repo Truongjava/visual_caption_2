@@ -13,7 +13,7 @@ export default defineConfig(({ mode }) => {
       host: true,
       proxy: {
         "/api": {
-          target: "http://127.0.0.1:8000",
+          target: "https://backend-ss45.onrender.com",
           changeOrigin: true,
           secure: false,
           rewrite: (path) => path,

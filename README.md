@@ -1,10 +1,10 @@
 
 # 📸 VisualCaption
-
-**VisualCaption** là một ứng dụng web giúp người dùng tải ảnh lên và nhận mô tả (caption) tự động dựa trên nội dung ảnh bằng trí tuệ nhân tạo. Dự án bao gồm hai phần chính: **Backend** (FastAPI) xử lý ảnh và sinh caption, và **Frontend** (React) là giao diện người dùng thân thiện, dễ sử dụng.
+**VisualCaption** là một ứng dụng web cho phép người dùng tải lên hình ảnh các địa điểm du lịch, danh lam thắng cảnh tại Việt Nam và tự động tạo mô tả (caption) phù hợp bằng trí tuệ nhân tạo. Ngoài việc sinh mô tả dựa trên nội dung ảnh, ứng dụng còn cung cấp thông tin cơ bản về địa điểm du lịch đó như vị trí, đặc điểm nổi bật và gợi ý tham quan. Dự án gồm hai phần chính: Backend (FastAPI) xử lý ảnh và sinh mô tả, Frontend (React) cung cấp giao diện thân thiện, dễ sử dụng cho người dùng.
 
 ---
-
+bạn có thể thử tại: https://visualcaption2.onrender.com/
+---
 ## 🗂 Cấu trúc dự án
 
 ```
